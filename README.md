@@ -121,3 +121,5 @@ v0.51
 - Started tracking updates on changelog;
 
 ```
+
+  `If you have some questions in this project, feel free to reach out.`
